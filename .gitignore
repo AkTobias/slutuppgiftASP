@@ -48,7 +48,11 @@ CodeCoverage/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# === Environment & Config Secrets ===
+Backendv4/appsettings.json
