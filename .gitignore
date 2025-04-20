@@ -55,4 +55,4 @@ TestResult.xml
 nunit-*.xml
 
 # === Environment & Config Secrets ===
-Backendv4/appsettings.json
+Backendv4/WebApi/appsettings.json
