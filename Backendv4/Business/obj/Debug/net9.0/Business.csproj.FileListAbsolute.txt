@@ -47,3 +47,21 @@ C:\Users\tobyg\Desktop\ASPNET\Slutuppgift\Backendv4\Business\obj\Debug\net9.0\re
 C:\Users\tobyg\Desktop\ASPNET\Slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.xml
 C:\Users\tobyg\Desktop\ASPNET\Slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.pdb
 C:\Users\tobyg\Desktop\ASPNET\Slutuppgift\Backendv4\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\bin\Debug\net9.0\Business.dll
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\bin\Debug\net9.0\Business.xml
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\bin\Debug\net9.0\Data.dll
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.dll
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.xml
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\tobyg\Desktop\New folder (6)\slutuppgift\Backendv4\Business\obj\Debug\net9.0\ref\Business.dll

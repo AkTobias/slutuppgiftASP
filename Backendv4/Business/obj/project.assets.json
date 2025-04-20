@@ -2914,11 +2914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tobyg\\Desktop\\ASPNET\\Slutuppgift\\Backendv4\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\tobyg\\Desktop\\New folder (6)\\slutuppgift\\Backendv4\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\tobyg\\Desktop\\ASPNET\\Slutuppgift\\Backendv4\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\tobyg\\Desktop\\New folder (6)\\slutuppgift\\Backendv4\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\tobyg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tobyg\\Desktop\\ASPNET\\Slutuppgift\\Backendv4\\Business\\obj\\",
+      "outputPath": "C:\\Users\\tobyg\\Desktop\\New folder (6)\\slutuppgift\\Backendv4\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2940,8 +2940,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\tobyg\\Desktop\\ASPNET\\Slutuppgift\\Backendv4\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\tobyg\\Desktop\\ASPNET\\Slutuppgift\\Backendv4\\Data\\Data.csproj"
+            "C:\\Users\\tobyg\\Desktop\\New folder (6)\\slutuppgift\\Backendv4\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\tobyg\\Desktop\\New folder (6)\\slutuppgift\\Backendv4\\Data\\Data.csproj"
             }
           }
         }

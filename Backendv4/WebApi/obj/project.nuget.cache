@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2HNLBj6GJI=",
+  "dgSpecHash": "A2A9JI9/IkU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tobyg\\Desktop\\ASPNET\\Slutuppgift\\Backendv4\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\tobyg\\Desktop\\New folder (6)\\slutuppgift\\Backendv4\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tobyg\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\tobyg\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

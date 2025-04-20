@@ -17,9 +17,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 Env.Load();
 
-var connectionString = Environment.GetEnvironmentVariable("AZURE_SQL_CONN");
-
-
+var connectionString = builder.Configuration.GetConnectionString("AlphaDbConnection");
 var apiKey = Environment.GetEnvironmentVariable("API_KEY");
 
 builder.Services.AddCors(options =>
